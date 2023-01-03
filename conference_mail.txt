@@ -1,0 +1,57 @@
+Hello,
+
+The following submission has been created.
+
+Track Name: ICCTA 2023
+
+Paper ID: 18
+
+Paper Title: Time Series Forecasting using LSTM Networks - Predicting Individual Household Electric Power Consumption
+
+Abstract:
+Time series forecasting is a common task in many real-world applications,
+such as demand forecasting, stock market prediction, and
+weather forecasting. Long Short-Term Memory (LSTM) networks
+are a type of recurrent neural network (RNN) that are well-suited
+for modeling time series data due to their ability to retain information
+from previous time steps in their hidden state. In this paper,
+we review the use of LSTM networks for time series forecasting,
+including the various methods and techniques that have been proposed
+and their relative advantages and disadvantages. We also
+discuss some of the challenges and considerations involved in using
+LSTM networks for time series forecasting, and provide some best
+practices for designing and training effective LSTM models
+
+Created on: Thu, 29 Dec 2022 19:03:54 GMT
+
+Last Modified: Thu, 29 Dec 2022 19:03:54 GMT
+
+Authors:
+     - tanjim.hussain.sajin@g.bracu.ac.bd (Primary)
+     - abid.hossain@g.bracu.ac.bd 
+     - md.hasibuzzaman.bhuiyan@g.bracu.ac.bd 
+
+Secondary Subject Areas: Not Entered
+Submission Files:     Time Series Forecasting using LSTM Networks - Predicting.pdf (563 Kb, Thu, 29 Dec 2022 19:03:48 GMT) 
+
+Submission Questions Response: Not Entered  
+
+Thanks,
+CMT team.
+
+
+
+
+
+Download the CMT app to access submissions and reviews on the move and receive notifications:
+https://apps.apple.com/us/app/conference-management-toolkit/id1532488001
+https://play.google.com/store/apps/details?id=com.microsoft.research.cmt
+
+To stop receiving conference emails, you can check the 'Do not send me conference email' box from your User Profile.
+
+Microsoft respects your privacy. To learn more, please read our Privacy Statement.
+
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052
+
